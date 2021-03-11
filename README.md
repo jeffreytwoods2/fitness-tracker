@@ -22,7 +22,7 @@ With this fitness tracker, you can:
 
 # Live App
 
-https://fathomless-journey-30707.herokuapp.com/
+https://floating-coast-77939.herokuapp.com/
 
 ## Contact me: 
 
